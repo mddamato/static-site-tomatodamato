@@ -43,7 +43,6 @@ img {
 .column {
   float: left;
   width: 50%;
-  row-gap: 10px;
 }
 
 /* Clear floats after the columns */
