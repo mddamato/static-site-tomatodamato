@@ -35,10 +35,10 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
-/* img {
+img {
   display: block;
   margin: 0 auto;
-} */
+}
 
 .column {
   float: left;
@@ -52,8 +52,3 @@ h1 {
   clear: both;
 }
 
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
