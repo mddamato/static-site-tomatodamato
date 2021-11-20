@@ -42,7 +42,7 @@ img {
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
 }
 
 /* Clear floats after the columns */
@@ -52,8 +52,8 @@ img {
   clear: both;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   .column {
-    width: 50%;
+    width: 100%;
   }
 }
